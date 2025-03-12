@@ -1,0 +1,93 @@
+[
+    {
+        "title": "War & Piece",
+        "author": "Leo Tolstoy",
+        "year": 1869,
+        "genre": "realistic fiction",
+        "read": true
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year": 1878,
+        "genre": "realistic fiction",
+        "read": false
+    },
+    {
+        "title": "Resurrection",
+        "author": "leo tolstoy ",
+        "year": 1899,
+        "genre": "redemption and forgiveness",
+        "read": false
+    },
+    {
+        "title": "The Cossacks",
+        "author": "leo tolstoy",
+        "year": 1863,
+        "genre": "complexities of modern society",
+        "read": false
+    },
+    {
+        "title": "Diario de una enfermera",
+        "author": "Cor\u00edn Tellado",
+        "year": 1958,
+        "genre": "romantic novels and photonovels",
+        "read": false
+    },
+    {
+        "title": "Along Came a Spider",
+        "author": "James Patterson",
+        "year": 1993,
+        "genre": "Mystery/Thriller",
+        "read": false
+    },
+    {
+        "title": "Roses are Red",
+        "author": "James Patterson",
+        "year": 2000,
+        "genre": "Mystery/Thriller",
+        "read": false
+    },
+    {
+        "title": "Midnight",
+        "author": "Dean Koontz",
+        "year": 1989,
+        "genre": "suspense, science fiction, love story, and horror",
+        "read": false
+    },
+    {
+        "title": "The First Folio",
+        "author": "William Shakespeare",
+        "year": 1623,
+        "genre": "mix of comedies, histories, and tragedies",
+        "read": false
+    },
+    {
+        "title": "The Mysterious Affair at Styles",
+        "author": "Agatha Christie",
+        "year": 1920,
+        "genre": "Detective Fiction, Mystery",
+        "read": false
+    },
+    {
+        "title": "The Murder of Roger Ackroyd",
+        "author": "Agatha Christie's",
+        "year": 1926,
+        "genre": "Detective Fiction, Mystery",
+        "read": false
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie's",
+        "year": 1934,
+        "genre": "Detective Fiction, Mystery",
+        "read": false
+    },
+    {
+        "title": "Death of the Nile",
+        "author": "Agatha Christie's",
+        "year": 1937,
+        "genre": "Mysterious",
+        "read": true
+    }
+]
